@@ -2,6 +2,6 @@ def my_collect(array)
   i=0
   new = []
   while new < array.length
-    |name
+    |name|
   end
 end  
