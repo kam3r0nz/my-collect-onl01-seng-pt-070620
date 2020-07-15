@@ -8,5 +8,5 @@ end
   i += 1
   end
   
-  array
+  new
 end  
